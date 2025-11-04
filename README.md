@@ -15,4 +15,4 @@ Team member : Neelapalli Gowtham
 
 Servicenow Instance: https://dev272997.service-now.com/now/nav/ui/classic/params/target/ui_page.do%3Fsys_id%3D1daae5bcc3352210688c921ed401311e
 
-Demo Vedio Link: https://drive.google.com/file/d/1Exbfq1OXSuo0HLditdQy3ECdSdi_4wO-/view?usp=sharing
+Demo Vedio Link:https://drive.google.com/file/d/1MQXAyPE5gjOSZIKqzb9sOqLe-rBrz030/view?usp=drive_link
